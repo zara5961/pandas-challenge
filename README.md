@@ -1,6 +1,6 @@
 # Panda Challenge
 
-![Education](Image/education.jpg)
+![Education](Images/education.jpg)
 
 # Py City Schools
 ## Dependencies and Setup:
