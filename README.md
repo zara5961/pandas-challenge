@@ -1,9 +1,14 @@
-![Education](Image/education.png)
+# Panda Challenge
 
+![Education](Image/education.jpg)
 
+# Py City Schools
 ## Dependencies and Setup:
 
-* Import necessary libraries such as pandas, numpy, and os.
+* Import necessary libraries such as 
+* pandas
+* numpy 
+* os
 
 ## Load Data:
 
