@@ -1,3 +1,6 @@
+![Education](Image/education.png)
+
+
 ## Dependencies and Setup:
 
 * Import necessary libraries such as pandas, numpy, and os.
